@@ -1,0 +1,81 @@
+/* مختلفات */
+
+#mrgleft {margin-right:2px;}
+.aileft { text-align:left; }
+.toggle { text-align:center; }
+#drop { text-align:center; }
+
+/* Multiple Page Slide */
+a.movepg.nexter,a.movepg.prever{color:#fff}
+.separator{overflow:hidden;max-height:100%;margin:0 0 20px}.separator img{background:#eee;max-width:100%;vertical-align:middle;background-position:middle;border:0;height:auto;width:100%}.next-wrap img,.next-wrap video,.next-wrap object{max-width:100% }.next-wrap{position:relative;padding:0 0 0 40px;line-height:normal;}.instruction{display:block;height:100%;width:100%;overflow:hidden}.slidecontentWrap{width:1000%}.slidecontent{direction: rtl;float:left;width:10%;line-height:161%;overflow:hidden}.movepg{display:none;position:absolute;bottom:20px;background:#e74c3c;color:#fff;font-weight:700;text-transform:uppercase;padding:6px 12px;cursor:pointer;font-size:80%;outline:none;border-radius:3px;transition:background .6s}.movepg:hover{background:#c0392b}.movepg.prever{left:20px}.movepg.nexter{right:20px}
+
+/* Custom Cookies Info Dark */
+.cookie-choices-info{background-color:rgba(56,66,75,.97)!important;line-height:normal!important;top:initial!important;bottom:0!important;font-family:inherit!important;-webkit-transform:translateZ(0);}
+.cookie-choices-info .cookie-choices-text{font-size:14px!important;color:#cee6ea!important}
+.cookie-choices-info .cookie-choices-button{font-weight:normal!important;color:#fff!important;margin-right:5px!important;padding:3px 6px!important;background:#f64c3b!important;border-radius:2px;font-family:&#39;droid arabic kufi&#39;;transition:all .4s linear}
+.cookie-choices-info .cookie-choices-button:nth-child(2){background:#f68c2e!important;transition:all .4s linear}
+.cookie-choices-info .cookie-choices-button:hover,.cookie-choices-info .cookie-choices-button:nth-child(2):hover{background:#282f36!important;transition:all .1s linear}
+/* Fixed */
+.CSS_LIGHTBOX {z-index:999999!important;}
+.CSS_LIGHTBOX_BG_MASK_TRANSPARENT {opacity:.95!important;}
+.status-msg-wrap{font-size:90%;font-weight:700;width:100%;margin:20px auto}
+.status-msg-body{padding:20px 2%;width:96%}
+.status-msg-border{border:1px solid #d8dde1;opacity:1;width:auto}
+.status-msg-bg{background-color:#fff}
+.status-msg-hidden{padding:20px 2%}
+#ArchiveList{font-size:90%}
+#ArchiveList ul li:before{content:&quot;&quot;!important;padding-left:0!important}
+.rich-snippet{padding:10px;margin:15px 0 0;border:3px solid #eee;font-size:12px}
+.quickedit,#ContactForm1{display:none;}
+.widget ul{line-height:1.4em}
+.profile-img{display:inline;opacity:1;margin:0 0 3px 6px}
+#ArchiveList ul li:before{content:&quot;&quot;!important;padding-left:0!important}
+.rich-snippet{padding:10px;margin:15px 0 0;border:3px solid #eee;font-size:12px}
+#Attribution1{height:0;visibility:hidden;display:none}
+#Label1 .tab-contents .widget{margin-bottom:15px}
+#Label2 li{float:right;width:44%;margin-right:5px}
+#ArchiveList a.post-count-link, #ArchiveList a.post-count-link:link, #ArchiveList a.post-count-link:visited {text-decoration:none;color:#666;}
+select#BlogArchive1_ArchiveMenu {width:100%;padding:10px;font-family:&#39;droid arabic kufi&#39;;background:#fff;color:#999;border:1px solid #e6e6e6;border-radius:2px;text-transform:uppercase;}
+select#BlogArchive1_ArchiveMenu:active, select#BlogArchive1_ArchiveMenu:focus {outline:none;box-shadow:none;}
+select#BlogArchive1_ArchiveMenu:after {content:&quot; &quot;;position:absolute;top:50%;margin-top:-2px;
+left:8px;width:0;height:0;border-right:5px solid transparent;border-left:5px solid transparent;border-top:5px solid #aaa;}
+/* CSS Wrapper */
+#outer-wrapper{position:relative;background:#fff;max-width:1010px;margin:00px auto;padding:20px;overflow:hidden;border:1px solid rgba(0,0,0,0.1);}
+#content-wrapper{margin:0 auto;padding:5px 0 0;word-wrap:break-word}
+#post-wrapper{overflow:hidden;word-wrap:break-word}
+/* CSS Header Wrapper */
+#header-wrapper{width:100%;margin:0 auto 20px auto;overflow:hidden;padding:0}
+#header{float:right;width:100%;max-width:240px;color:#46515e;margin:0}
+#header h1,#header p{font-size:100%;font-weight:700;color:#222;margin:0;}
+#header a{color:#46515e;text-decoration:none;transition:all 0.3s ease-in-out}
+#header a:hover{color:#0ea6ff}
+#header .description{font-family:&#39;droid arabic kufi&#39;;font-size:100%;font-weight:400;color:#5b686a;text-transform:none}
+.header img{display:block}
+.header-left{float:left;padding:0;overflow:hidden;margin:0;width:100%;max-width:728px}
+.header-left img{display:block}
+/* CSS Header 2 Wrapper */
+.blogouter-wrapper{background:#fff0;position:relative;overflow:hidden;border-bottom:0px solid rgba(0,0,0,0.1);}
+.ct-wrapper{background:#dbf5f9;position:static;max-width:1010px;margin:auto;padding:0 20px;border:1px solid rgba(0,0,0,0.1)}
+.header-wrapper2{margin:0 auto;padding:0}
+/* CSS Top Menu */
+.mainin-nav{display:block;margin:0 auto;padding:0}
+.mainin-nav ul{width:100%;padding:0;margin:0;}
+.mainin-nav li{list-style-type:none;float:right;margin:0;padding:0;}
+.mainin-nav li a{font-size:12px;font-weight:700;color:#31334e;display:block;margin:0;padding:7px 10px;line-height:30px}
+.mainin-nav ul li a:active,.mainin-nav ul li.highlight a{background:#4d758c;color:#fff;text-decoration:none}
+.mainin-nav li.highlight{background:#fafafa}
+.mainin-nav ul li a:hover{color:#0ea6ff;text-decoration:none}.mainin-nav ul li.highlight a:hover{color:#fff;text-decoration:none}
+.mainin-nav a#pull{display:none}
+/* CSS Tabs */
+.tabs,.tablatur{margin:0}
+.tabs .tablatur{padding:0}
+.tabs.tabs-1{border:1px solid #e3e3e3}
+.tabs-menu{background:#b0dae6;padding:0;margin:0}
+.tabs-menu li{font-size:12px;font-weight:700;height:45px;line-height:45px;width:33.3%;margin:0;list-style:none;text-align:center;display:inline-block;padding:0;color:#000000;cursor:pointer;position:relative;border-bottom:1px solid #e3e3e3;transition:all 0.1s linear}
+.tabs-menu li:hover{color:#000000}
+.tabs-menu .active-tab{background:#3895A9;color:#fff;border-bottom:1px solid transparent}
+.tabs-menu .active-tab:hover{color:#FFFF7D}
+.tab-contents{padding:10px;background:#fff;margin-bottom:15px}
+.tab-contents .sidebar li{margin:0;padding:0}
+.tab-contents .widget ul{background:transparent;color:#666;overflow:visible}
+.tab-contents .widget li{background:#fff;color:#666;float:none!important}
