@@ -1,0 +1,23 @@
+.post img{background:#f9f9f9;height:auto;max-width:100%;border:0;margin-bottom:2.0px;box-shadow:0 0 0 1px rgba(0,0,0,0.03);opacity:1;transition:all .6s ease;}
+.post img:hover {opacity:0.95;}
+.post-body a.img,.post-body .separator a {margin-right:0!important;margin-left:0!important;}
+.breadcrumbs{border-bottom:0;margin-bottom:0;}
+.post-info{margin:5px 0;color:#444;font-size:90%;padding:0;text-align:center;font-weight:700;border-bottom:1px solid #e3e3e3;border-top:1px solid #e3e3e3}
+.post-info a{display:inline-block;background:transparent;color:#444;padding:10px;transition:all .3s ease-in-out}
+/* share button */
+#share-this{overflow:hidden;margin:20px auto 0 auto;line-height:1.4em;display:table;text-align:center}
+#share-this h4{font-family: droid arabic kufi;font-size: 12px;position:relative;overflow:hidden;margin:0 0 20px;font-weight:700;padding:0 8px;text-align:center;text-transform:uppercase;transition:all 0.5s ease-out}
+#share-this h4:before,#share-this h4:after{position:absolute;top:51%;overflow:hidden;width:50%;height:1px;content:&#39;\a0&#39;;background-color:#ddd}#share-this h4:before{margin-right:-50%;text-align:left;}#share-this span{position:relative;display:inline-block;padding:0 10px;margin:auto;}
+#share-this a{float:right;display:block;color:#fff;padding:10px 14px;text-align:center;margin:0 3px 3px;font-size:12px}#share-this a.this-fb{background:#395796;}#share-this a.this-tw{background:#4cb0ea;}#share-this a.this-gp{background:#de3425;text-align:center;overflow:hidden}#share-this a.this-gp i{text-align:center;padding:0}#share-this a.this-fb:hover,#share-this a.this-tw:hover,#share-this a.this-gp:hover {opacity:.9}#share-this i{display:inline-block;margin:-3px 0 0 10px}
+.this-fb i,.this-tw i,.this-gp i{background:url(http://1.bp.blogspot.com/-P3DOmXqEiCM/VkOW8tkzxGI/AAAAAAAAMpE/cBX9b0xTPU8/s1600/sosmed2.png) no-repeat;width:22px; height:18px; display:inline-block;vertical-align:text-top;margin-top:-6px;text-align:center}
+.this-fb i{background-position:0 -100px;margin-top:-4px}.this-tw i{background-position:0 -150px}.this-gp i{background-position:0 -200px}.notpay {font-size:13px;line-height: 22px;border:2px #df3f2a solid;padding:3px 15px;text-align:center;margin:0 0 25px;}.pay {font-size:13px;line-height: 22px;border:2px #5973b0 solid;padding:3px 15px;text-align:center;margin:0 0 25px;}
+/*------related-posts ------*/
+#related-posts{float:right;width:100%;background:#fff;margin:10px 0;border:1px solid #dfdfdf}
+#related-posts .widget{list-style-type:none;margin:5px 0;padding:0}
+#related-posts a{line-height:26px;color:#0f42c7;font-size:14px;text-decoration:none}
+#related-posts a:hover{color:#797979;text-decoration:none}
+#related-posts ul{border:medium none;margin:10px;padding:0}
+#related-posts ul li{display:block;background:0;margin:0;margin-bottom:5px;line-height:25px;border-bottom:1px dotted #ccc;padding:0 0 1px 16px}
+/* CSS Item Responsive */
+@media only screen and (max-width:640px){.related-post-style-3 .related-post-item {width:45.4%;}}
+@media screen and (max-width:414px){.related-post-style-3 .related-post-item {width:100%;margin:0;padding:10px;}}
